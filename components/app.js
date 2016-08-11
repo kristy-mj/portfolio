@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Resume from './Resume'
 
 class App extends Component {
 
@@ -7,9 +8,10 @@ class App extends Component {
   }
 
   render () {
-    return <h1>Welcome to {this.props.name}</h1>
+    return <Resume />
   }
-
 }
 
 export default App
+
+
