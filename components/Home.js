@@ -10,7 +10,7 @@ class Home extends React.Component {
       <div>
         <h1>Hello there!</h1>
         <h2>Welcome to the website of Kristy</h2>
-        <h4>A designer and developer with big dreams and plenty of genius</h4>
+        <h4>A web developer with big dreams and plenty of genius</h4>
       </div>
     )
   }

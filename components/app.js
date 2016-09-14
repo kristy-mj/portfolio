@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Resume from './Resume'
+import Home from './Home'
 
 class App extends Component {
 
@@ -8,7 +8,11 @@ class App extends Component {
   }
 
   render () {
-    return <Home />
+    return (
+        <div>
+            <Home />
+        </div>
+    )
   }
 }
 
