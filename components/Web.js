@@ -11,7 +11,7 @@ class Web extends React.Component {
         <h1>Web Development</h1>
         <li>Piro</li>
         <li>KRAT</li>
-        <li>Lodge Booking Form<li>
+        <li>Lodge Booking Form</li>
       </div>
     )
   }
